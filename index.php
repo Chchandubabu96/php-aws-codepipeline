@@ -1,4 +1,3 @@
-composer require nesbot/carbon
 <?php
 require 'vendor/autoload.php';
 
